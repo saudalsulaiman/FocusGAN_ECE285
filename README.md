@@ -1,1 +1,5 @@
 # SalGAN_ECE285
+
+Abstract:   
+
+  Visual saliency is the initial detection of the dominant parts of a visual scene to humans. It is the parts of a scene that grabs their attention. It is a subjective perceptual quality. Visual saliency detection has shown importance in advancing computer vision tasks such as object recognition and image segmentation. With as low as 20% attention modulation, a model using spatial attention and object recognition successively recognizes various objects in an image(Walther et al., 2002). In this proposal, we cover the limitations of visual saliency models that utilize different saliency metrics. We, therefore, present a study demonstrating the effectiveness of GANs and a data-driven approach employing a U-net generator in improving the performance and fine-grain accuracy of visual saliency models. In the tentative method, we describe our exact approach and how we train our generator and discriminator models to achieve our desired results.In the experiments section, we will present the dataset we plan to use and why we chose it. Furthermore, we will present the methods we plan to use to test our model. 
