@@ -9,7 +9,11 @@ Visual saliency is the initial detection of the dominant parts of a visual scene
 
 ![FocusGAN Architecture Diagram](images/Screen%20Shot%202023-09-10%20at%203.42.38%20PM.png) 
 
-# Results
+# CAT2000 Dataset 
+
+![CAT2000 Dataset Visualization](images/Screen%20Shot%202023-09-10%20at%203.49.46%20PM.png)
+
+# Results 
 
 ![Results Visualization](images/Screen%20Shot%202023-09-10%20at%203.43.59%20PM.png)
 
