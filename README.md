@@ -11,7 +11,7 @@ Visual saliency is the initial detection of the dominant parts of a visual scene
 
 # Results
 
-![Results Visualization](path/to/your/results/image.jpg)
+![Results Visualization](images/Screen%20Shot%202023-09-10%20at%203.43.59%20PM.png)
 
 
 # References
